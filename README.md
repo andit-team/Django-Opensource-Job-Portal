@@ -1,6 +1,6 @@
 ## Django Job Portal
 
-#### An open source online job portal.
+#### An open source online job portal using Django and deployed using Heroku
 
 Live: [Demo](https://django-portal.herokuapp.com/)
 
